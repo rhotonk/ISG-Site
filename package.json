@@ -1,0 +1,14 @@
+{
+	"name":"ISG-Site",
+	"version":"0.0.1",
+	"main":"./server",
+	"dependencies":{
+		"express"         :"latest",
+		"nodemon"         : "latest",
+		"mongoose"        : "latest",
+		"body-parser"     : "latest",
+		"method-override" : "latest",
+		"ejs"             : "latest",
+		"http"            : "latest"
+	}
+}
